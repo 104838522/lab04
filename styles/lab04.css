@@ -11,17 +11,16 @@ last modified: 27/03/2025
 description: css functions for lab04.html
 
 */
-
-
 * { font-family: calibri, sans-serif;
     color: #2F4F4F; 
-}    
+}
 
 h1 { 
     color: purple; 
     font-size: 2em; 
     font-weight: bold; 
 }
+
 
 h2 { 
     color: rgb(0, 128, 128); 
@@ -42,7 +41,7 @@ aside, footer {
  }
 
  #images {
-    text-align : center;  /* careful: center has US spelling */
+    text-align : center;  
     }
 
 #heading{
